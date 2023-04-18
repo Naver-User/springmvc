@@ -12,6 +12,7 @@
     <Loggers>
         <Logger name="org.zerock.myapp"             level="trace"/>
         <Logger name="org.springframework"          level="debug"/>
+        <Logger name="com.xasser"          level="debug"/>
         
 
         <!-- <Logger name="org.springframework.core"     level="info"/>
