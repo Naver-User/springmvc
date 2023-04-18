@@ -12,7 +12,6 @@
     <Loggers>
         <Logger name="org.zerock.myapp"             level="trace"/>
         <Logger name="org.springframework"          level="debug"/>
-        <Logger name="com.zaxxer.hikari"    		level="trace"/>
         
 
         <!-- <Logger name="org.springframework.core"     level="info"/>
